@@ -19,7 +19,7 @@
     <div class="col">
         <img src="https://media.discordapp.net/attachments/1003582679465345034/1162014100553998436/image.png?ex=65f2f6f6&is=65e081f6&hm=7aa8566a59158f22516d8db28a2e521ce8fab50627769aac5e9631803842fa53&=&format=webp&quality=lossless" style="border-radius: 100px;" width="140" height="140">
         <h2 class="fw-normal">Athit Fongkhaimuk</h2>
-        <p>6504101409 - FullstackDev.</p>
+        <p>6504101409 - Dev.</p>
         <button class="bt-contact" onclick="openPopup('https://poplme.co/G7lP22B1/share')">
             <span>Contact &raquo;</span>
         </button>
@@ -27,7 +27,7 @@
     <div class="col">
         <img src="https://cdn.discordapp.com/attachments/1003582679465345034/1162012341932662824/365298108_4223788944514137_6778048245465402849_n.jpg?ex=65e9bad3&is=65d745d3&hm=56b9e751faacfcfe0675c26f05be7b45c31e2860b214d64644269e26012e19c9&" style="border-radius: 100px;" width="140" height="140">
         <h2 class="fw-normal">Chaiyut Suntharote</h2>
-        <p>6504101318 - FullstackDev.</p>
+        <p>6504101318 - Dev.</p>
         <button class="bt-contact" onclick="openPopup('https://poplme.co/GU4bLcu6/dash')">
             <span>Contact &raquo;</span>
         </button>
